@@ -6,3 +6,8 @@ It just struck me that I could use Scriptable to pull data from a source and par
 Currently the Scriptable script only tracks the International matches played by the top-10 ranking teams across various cricket formats.
 Anyone can modify the script to extract more data and display according to their requirements.
 
+<br>
+
+![Image of the widget](https://github.com/0x4ngK4n/scriptable-widgets/blob/main/widgets/cricket/IMG_0453.jpg?raw=true)
+
+_The widget displaying a drawn match between India vs England. Sometimes, matches get drawn/cancelled in 'Rainland' conditions :rofl:_
