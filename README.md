@@ -4,7 +4,7 @@
 
 > So what is Scriptable?
 
-As per **Scriptable**'s description of themselves: _Scriptabled is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more._
+As per **Scriptable**'s description of themselves: _Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more._
 
 > But why Scriptable?
 
